@@ -1,11 +1,11 @@
-package Alura.CursoDois;
+package alura.src.main.java.br.com.alura.cursos.objetos.classes;
 
-public enum TipoPlanoEnum {
+public enum TipoPlano {
     POBRES("Plano Básico", "plano pros pobre fudido"),
     SE_ACHAM_RICO("Plano intermediário", "plano pros que se acha rico"),
     ULTRA_SUPER_PREMIUM("Plano Premium", "plano pros podre de rico");
 
-    TipoPlanoEnum(final String falseName, final String trueName) {
+    TipoPlano(final String falseName, final String trueName) {
         this.falseName = falseName;
         this.trueName = trueName;
     }

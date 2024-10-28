@@ -1,4 +1,4 @@
-package Alura.CursoUm;
+package alura.src.main.java.br.com.alura.cursos.introducao;
 
 import java.util.Random;
 import java.util.Scanner;

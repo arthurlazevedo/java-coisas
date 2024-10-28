@@ -1,4 +1,4 @@
-package Alura.CursoUm;
+package alura.src.main.java.br.com.alura.cursos.introducao;
 
 import java.util.Scanner;
 
@@ -45,7 +45,7 @@ public class AplicacaoDesafio {
         System.out.println("\nPor fim, nos informe quantos money você tem:");
         poggers.amount = reader.nextDouble();
 
-        System.out.println("Parabéns, caso você achar que perdeu um pouquinho de dinheiro às vezes, é só imaginação kk\n");
+        System.out.println("Parabéns, caso ache que perdeu um pouquinho de dinheiro às vezes, é só imaginação msm kk\n");
 
         System.out.printf(data, poggers.name, poggers.accountType, poggers.amount);
 
